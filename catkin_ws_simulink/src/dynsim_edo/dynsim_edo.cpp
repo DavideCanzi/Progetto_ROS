@@ -9,7 +9,7 @@
 //
 // Model version                  : 1.127
 // Simulink Coder version         : 9.3 (R2020a) 18-Nov-2019
-// C/C++ source code generated on : Fri May 15 19:26:54 2020
+// C/C++ source code generated on : Mon May 18 14:34:24 2020
 //
 // Target selection: ert.tlc
 // Embedded hardware selection: Generic->Unspecified (assume 32-bit Generic)
@@ -4571,7 +4571,7 @@ void dynsim_edo_initialize(void)
     dynsim_edo_B.cv2[31] = '\x00';
     ParamGet_dynsim_edo_113.initialize(dynsim_edo_B.cv2);
     ParamGet_dynsim_edo_113.initialize_error_codes(0, 1, 2, 3);
-    ParamGet_dynsim_edo_113.set_initial_value(-1.5707963267948966);
+    ParamGet_dynsim_edo_113.set_initial_value(0.0);
     dynsim_edo_DW.obj_n.isSetupComplete = true;
 
     // End of Start for MATLABSystem: '<S13>/Get Parameter1'
@@ -4586,7 +4586,7 @@ void dynsim_edo_initialize(void)
     dynsim_edo_B.cv2[31] = '\x00';
     ParamGet_dynsim_edo_125.initialize(dynsim_edo_B.cv2);
     ParamGet_dynsim_edo_125.initialize_error_codes(0, 1, 2, 3);
-    ParamGet_dynsim_edo_125.set_initial_value(-1.5707963267948966);
+    ParamGet_dynsim_edo_125.set_initial_value(0.0);
     dynsim_edo_DW.obj_nf.isSetupComplete = true;
 
     // End of Start for MATLABSystem: '<S13>/Get Parameter4'
@@ -4601,7 +4601,7 @@ void dynsim_edo_initialize(void)
     dynsim_edo_B.cv2[31] = '\x00';
     ParamGet_dynsim_edo_127.initialize(dynsim_edo_B.cv2);
     ParamGet_dynsim_edo_127.initialize_error_codes(0, 1, 2, 3);
-    ParamGet_dynsim_edo_127.set_initial_value(-1.5707963267948966);
+    ParamGet_dynsim_edo_127.set_initial_value(0.0);
     dynsim_edo_DW.obj_n4.isSetupComplete = true;
 
     // End of Start for MATLABSystem: '<S13>/Get Parameter6'
@@ -4616,7 +4616,7 @@ void dynsim_edo_initialize(void)
     dynsim_edo_B.cv2[31] = '\x00';
     ParamGet_dynsim_edo_128.initialize(dynsim_edo_B.cv2);
     ParamGet_dynsim_edo_128.initialize_error_codes(0, 1, 2, 3);
-    ParamGet_dynsim_edo_128.set_initial_value(-1.5707963267948966);
+    ParamGet_dynsim_edo_128.set_initial_value(0.0);
     dynsim_edo_DW.obj_f.isSetupComplete = true;
 
     // End of Start for MATLABSystem: '<S13>/Get Parameter7'
@@ -4631,7 +4631,7 @@ void dynsim_edo_initialize(void)
     dynsim_edo_B.cv2[31] = '\x00';
     ParamGet_dynsim_edo_129.initialize(dynsim_edo_B.cv2);
     ParamGet_dynsim_edo_129.initialize_error_codes(0, 1, 2, 3);
-    ParamGet_dynsim_edo_129.set_initial_value(-1.5707963267948966);
+    ParamGet_dynsim_edo_129.set_initial_value(0.0);
     dynsim_edo_DW.obj_d.isSetupComplete = true;
 
     // End of Start for MATLABSystem: '<S13>/Get Parameter8'

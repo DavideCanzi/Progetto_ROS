@@ -164,15 +164,10 @@ function TraceInfoFlag() {
     this.traceFlag["dynsim_edo.cpp:4538c25"]=1;
     this.traceFlag["dynsim_edo.cpp:4552c26"]=1;
     this.traceFlag["dynsim_edo.cpp:4567c26"]=1;
-    this.traceFlag["dynsim_edo.cpp:4574c47"]=1;
     this.traceFlag["dynsim_edo.cpp:4582c26"]=1;
-    this.traceFlag["dynsim_edo.cpp:4589c47"]=1;
     this.traceFlag["dynsim_edo.cpp:4597c26"]=1;
-    this.traceFlag["dynsim_edo.cpp:4604c47"]=1;
     this.traceFlag["dynsim_edo.cpp:4612c26"]=1;
-    this.traceFlag["dynsim_edo.cpp:4619c47"]=1;
     this.traceFlag["dynsim_edo.cpp:4627c26"]=1;
-    this.traceFlag["dynsim_edo.cpp:4634c47"]=1;
     this.traceFlag["dynsim_edo.cpp:4642c26"]=1;
     this.traceFlag["dynsim_edo.cpp:4657c26"]=1;
     this.traceFlag["dynsim_edo.cpp:4672c26"]=1;

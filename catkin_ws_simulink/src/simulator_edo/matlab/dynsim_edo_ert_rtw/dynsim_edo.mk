@@ -2,7 +2,7 @@
 ## Makefile generated for Simulink model 'dynsim_edo'. 
 ## 
 ## Makefile     : dynsim_edo.mk
-## Generated on : Fri May 15 19:27:04 2020
+## Generated on : Mon May 18 14:34:38 2020
 ## MATLAB Coder version: 5.0 (R2020a)
 ## 
 ## Build Info:
@@ -27,7 +27,7 @@ MATLAB_ROOT               = /usr/local/MATLAB/R2020a
 MATLAB_BIN                = /usr/local/MATLAB/R2020a/bin
 MATLAB_ARCH_BIN           = $(MATLAB_BIN)/glnxa64
 MASTER_ANCHOR_DIR         = 
-START_DIR                 = /home/davide/Scrivania/simulator_edo/matlab
+START_DIR                 = /home/davide/catkin_ws_simulink/src/simulator_edo/matlab
 SOLVER                    = 
 SOLVER_OBJ                = 
 CLASSIC_INTERFACE         = 0
