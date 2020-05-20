@@ -1,8 +1,8 @@
 # Cartesian planner configuration parameters
   /planner_cartesian/run_period: 0.1           # Node execution period
-  /planner_cartesian/start_delay: 0.5             # Execution start delay
+  /planner_cartesian/start_delay: 0.3             # Execution start delay
 
-  /planner_cartesian/pi: [0.0,0.0,3.0]            # Initial position [m]
+  /planner_cartesian/pi: [0.4164, 0.0001, 0.4856]            # Initial position [m]
   /planner_cartesian/pf: [0.0001, 0.4146, 0.4858]            # Final position [m]
 
   /planner_cartesian/max_acc: 0.5               # Maximum acceleration [m/s^2]
