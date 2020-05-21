@@ -1,0 +1,13 @@
+# Joint controller configuration parameters
+  /controller_joint/run_period: 0.01          # Node execution period
+  /controller_joint/start_delay: 0.3          # Execution start delay
+
+  /controller_joint/Kp_pos: [10, 10, 10]        # Position control, proportional gains
+  /controller_joint/uMin_pos: [-10.0, -10.0, -10.0]  # Position control, low saturation
+  /controller_joint/uMax_pos: [10.0, 10.0, 10.0]    # Position control, high saturation
+
+  /controller_joint/Kp_vel: [0.4, 0.4, 0.4]       # Velocity control, proportional gains
+  /controller_joint/Ti_vel: [5, 5, 5]       # Velocity control, integral time
+  /controller_joint/uMin_vel: [-10.0, -10.0, -10.0]  # Velocity control, low saturation
+  /controller_joint/uMax_vel: [10.0, 10.0, 10.0]    # Velocity control, high saturation
+
